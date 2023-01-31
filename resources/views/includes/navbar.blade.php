@@ -9,8 +9,8 @@
     </button>
     <div class="collapse navbar-collapse" id="navb">
       <ul class="navbar-nav ml-auto mr-3">
-        <li class="nav-item mx-md-2"><a href="#" class="nav-link active">Home</a></li>
-        <li class="nav-item mx-md-2"><a href="#" class="nav-link">Paket Travel</a></li>
+        <li class="nav-item mx-md-2"><a href="/" class="nav-link active">Home</a></li>
+        <li class="nav-item mx-md-2"><a href="/" class="nav-link">Paket Travel</a></li>
         <li class="nav-item dropdown">
           <a href="#" class="nav-link dropdown-toggle" id="navbardrop" data-toggle="dropdown">Services</a>
           <div class="dropdown-menu">
@@ -19,7 +19,7 @@
             <a href="#" class="dropdown-item">Link</a>
           </div>
         </li>
-        <li class="nav-item mx-md-2"><a href="#" class="nav-link">Testimonial</a></li>
+        <li class="nav-item mx-md-2"><a href="/" class="nav-link">Testimonial</a></li>
       </ul>
 
       @guest
